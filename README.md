@@ -45,7 +45,3 @@
 <p align="left">```bash<br># Install dependencies<br>npm install<br><br># Run backend server<br>node server.js<br><br># Run frontend<br>npm run dev</p>
 
 ###
-
-<p align="left">Hello World!!</p>
-
-###
